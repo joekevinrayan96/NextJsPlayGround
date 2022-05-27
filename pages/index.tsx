@@ -63,8 +63,8 @@ const Home: NextPage = () => {
               <Image
                 src={linkedInLogo}
                 alt="LinkedInLogo"
-                width={130} //100
-                height={35} //25
+                width={130}
+                height={35}
               />
             </span>
           </a>
