@@ -72,7 +72,7 @@ const Home: NextPage = () => {
           <a href="https://stackoverflow.com/users/6865638/joekevinrayan96">
             <span className={styles.logo}>
               <Image
-                src={gitHubLogo}
+                src={stackOverFlowLogo}
                 alt="StackOverFlowLogo"
                 width={160}
                 height={40}
