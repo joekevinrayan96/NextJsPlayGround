@@ -4,7 +4,7 @@ import Image from "next/image";
 import styles from "../styles/Home.module.css";
 import linkedInLogo from "../assets/LinkedInLogo.png";
 import gitHubLogo from "../assets/GitHubLogo.png";
-// import stackOverFlowLogo from "../assets/StackOverFlowLogo.png";
+import stackOverFlowLogo from "../assets/StackOverFlowLogo.png";
 
 const Home: NextPage = () => {
   return (
@@ -69,7 +69,7 @@ const Home: NextPage = () => {
             </span>
           </a>
 
-          {/* <a href="https://stackoverflow.com/users/6865638/joekevinrayan96">
+          <a href="https://stackoverflow.com/users/6865638/joekevinrayan96">
             <span className={styles.logo}>
               <Image
                 src={stackOverFlowLogo} //changed
@@ -78,7 +78,7 @@ const Home: NextPage = () => {
                 height={40}
               />
             </span>
-          </a> */}
+          </a>
         </div>
         <div className={styles.footer}>
           <a
