@@ -73,7 +73,7 @@ const Home: NextPage = () => {
             <span className={styles.logo}>
               <Image
                 src={stackOverFlowLogo}
-                alt="GitHubLogo"
+                alt="StackOverFlowLogo"
                 width={160}
                 height={40}
               />
