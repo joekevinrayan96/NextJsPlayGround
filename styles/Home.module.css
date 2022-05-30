@@ -72,6 +72,7 @@
   justify-content: center;
   flex-wrap: wrap;
   max-width: 800px;
+  overflow-wrap: break-word;
 }
 
 .card {
